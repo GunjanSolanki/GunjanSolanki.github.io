@@ -5,7 +5,7 @@
 ### Projects
 
 [Real Estate Platform](http://raceconomy.com/)
-<img src="images/[project1.png?raw=true"/>
+<img src="images/project1.png?raw=true"/>
 
 ---
 [Ed-Tech Platform](http://conectar.io/)
